@@ -1,4 +1,4 @@
-# Compilation lists - FROM: Siopa et al. 2024 Animal pollinated crops and cultivars – a quantitative assessment of Pollinator Dependence values and evaluation of methodological approaches. Journal of Applied Ecology, in press
+# Compilation lists - Siopa et al. 2024 Animal pollinated crops and cultivars – a quantitative assessment of Pollinator Dependence values and evaluation of methodological approaches. Journal of Applied Ecology, in press
 Animal pollinated crops and cultivars levels – a quantitative assessment of Pollinator Dependence values and evaluation of methodological approaches
 Catarina Siopa, Luísa G. Carvalheiro, Helena Castro, João Loureiro, Sílvia Castro
 
